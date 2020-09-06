@@ -10,6 +10,8 @@
 <br>
 API site: https://icanhazdadjoke.com/api
 <br>
+
 demo site: https://nuxt-jokes-app.netlify.app/
 <br>
+
 <img src="https://github.com/kimjihun-dev/nuxt.js_jokes_app/blob/master/nuxt-jokes-app.gif" width="70%">
